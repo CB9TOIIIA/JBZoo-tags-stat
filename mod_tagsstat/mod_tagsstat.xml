@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="3.1"
+	client="site">
+	<name>Статистика тегов</name>
+	<author>CB9TOIIIA</author>
+	<creationDate>June 2016</creationDate>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>cb9toiiia@gmail.com</authorEmail>
+	<authorUrl>http://cb9t.ru</authorUrl>
+	<version>3.0.0</version>
+	<description>Модуль отображает статистику использования тегов</description>
+	<files>
+		<filename module="mod_tagsstat">mod_tagsstat.php</filename>
+		<filename>index.html</filename>
+		<folder>tmpl</folder>
+	</files>
+</extension>
